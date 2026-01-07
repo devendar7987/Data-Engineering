@@ -1,0 +1,8 @@
+emp_id,emp_name,dept,salary,project,project_hours,address,phone
+101,Ravi Kumar,IT,75000,ERP System,120,Hyderabad,9876543210
+102,Sita Sharma,IT,55000,Website Revamp,95,Bengaluru,9876543211
+103,Arjun Reddy,HR,60000,Recruitment Drive,80,Warangal,9876543212
+104,Neha Singh,HR,0,Training Program,60,Delhi,9876543213
+105,Amit Verma,Finance,80000,Budget Analysis,110,Mumbai,9876543214
+106,Pooja Nair,Finance,45000,Audit Prep,70,Kochi,9876543215
+102,Sita Sharma,IT,55000,Website Revamp,95,Bengaluru,9876543211
