@@ -1,0 +1,16 @@
+order_id,order_date,customer_id,customer_name,customer_city,product_id,product_name,category,price,quantity
+1001,2024-01-10,C001,ravi,hyderabad,P101,laptop,electronics,55000,1
+1002,2024-01-10,C002,anita,bangalore,P102,mouse,electronics,500,2
+1003,2024-01-11,C001,ravi,hyderabad,P103,keyboard,electronics,,1
+1004,2024-01-12,C003,rahul,chennai,P101,laptop,electronics,55000,
+1005,2024-01-12,C002,anita,bangalore,P104,chair,furniture,7000,1
+1006,2024-01-13,,sneha,pune,P105,desk,furniture,12000,1
+1007,2024-01-13,C001,ravi,hyderabad,P102,mouse,electronics,500,3
+1008,,C005,vikram,delhi,P106,monitor,electronics,18000,1
+1009,2024-01-14,C003,rahul,chennai,,keyboard,electronics,1500,2
+1010,2024-01-15,C004,sneha,pune,P101,laptop,electronics,55000,1
+1011,2024-01-16,C006,arjun,kochi,P107,tablet,electronics,22000,1
+1012,2024-01-16,C007,meena,jaipur,P108,bookshelf,furniture,9000,1
+1013,2024-01-17,C002,anita,bangalore,P102,mouse,electronics,500,1
+1014,2024-01-17,C008,rohit,indore,P109,printer,electronics,15000,1
+1015,2024-01-18,C009,pooja,ahmedabad,P110,sofa,furniture,35000,1
