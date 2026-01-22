@@ -1,4 +1,4 @@
-# 🗄️ Project: Loading Single Table Data into Dimensions and Fact Tables (Star Schema)
+# 🗄️ Project: Loading Single Table Data into Dimensions and Fact Table (Star Schema)
 
 📂 **Location**  
 Projects/Project2/
