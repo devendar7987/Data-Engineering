@@ -1,4 +1,4 @@
-# Loading Single Table Data into Dimensions and Fact Tables (Star Schema)
+# Loading Single Table Data into Dimensions and Fact Table (Star Schema)
 
 import pandas as pd
 from sqlalchemy import create_engine
@@ -129,4 +129,5 @@ WHERE contype = 'f'
 """
 fact_sales_fk_check = pd.read_sql(query, db_engine)
 print("Validating foreign key relationships for fact_sales table...")
+
 print(fact_sales_fk_check)
