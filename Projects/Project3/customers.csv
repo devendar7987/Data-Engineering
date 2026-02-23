@@ -1,0 +1,10 @@
+customer_id,name,email,city
+1,Ravi,ravi@gmail.com,Hyderabad
+2,Anita,anita@gmail.com,Delhi
+3,Rahul,rahul@gmail.com,Mumbai
+4,Sneha,sneha@gmail.com,Bangalore
+5,Arjun,arjun@gmail.com,Ahmedabad
+6,Kiran,,Chennai
+7,,kiran@gmail.com,Pune
+3,Rahul,rahul@gmail.com,Mumbai
+8,Meena,meena@gmail.com,

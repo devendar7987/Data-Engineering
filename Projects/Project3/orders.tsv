@@ -1,0 +1,9 @@
+order_id	customer_id	product	amount
+101	1	Laptop	55000
+102	2	Mobile	20000
+103	3	Tablet	15000
+104	1	Headphones	3000
+105	5	Laptop	55000
+106	6	Mobile	
+107		Tablet	15000
+108	4	Laptop	80000
