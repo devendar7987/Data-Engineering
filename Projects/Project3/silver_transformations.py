@@ -1,5 +1,8 @@
 # Silver Layer - Data Cleaning Process
 
+# Set current database context
+spark.sql("USE structured_pipeline_db")
+
 print("Starting Silver Layer - Cleaning Process...")
 
 # Read Bronze Tables
