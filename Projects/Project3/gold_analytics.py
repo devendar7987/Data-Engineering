@@ -1,5 +1,8 @@
 # Gold Layer - Business Analytics Processing
 
+# Set current database context
+spark.sql("USE structured_pipeline_db")
+
 print("Starting Gold Layer - Business Transformation Process...")
 
 # Read Silver Tables
