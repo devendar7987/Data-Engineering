@@ -1,0 +1,35 @@
+[
+  {
+    "order_id": 101,
+    "customer": "Devendar",
+    "items": [
+      {"product": "Laptop", "price": 50000},
+      {"product": "Mouse", "price": 500},
+      {"product": "Laptop", "price": 50000}
+    ]
+  },
+  {
+    "order_id": 102,
+    "customer": "Rahul",
+    "items": [
+      {"product": "Keyboard", "price": 1500},
+      {"product": "Mouse", "price": 600}
+    ]
+  },
+  {
+    "order_id": 103,
+    "customer": "Anitha",
+    "items": [
+      {"product": "Monitor", "price": 12000},
+      {"product": "Monitor", "price": 12000}
+    ]
+  },
+  {
+    "order_id": 104,
+    "customer": "Suresh",
+    "items": [
+      {"product": "Laptop", "price": 52000},
+      {"product": "Headphones", "price": 2000}
+    ]
+  }
+]
