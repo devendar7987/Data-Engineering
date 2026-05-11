@@ -13,7 +13,7 @@ print("Google Gemini AI Library Imported Successfully")
 print("Creating Gemini AI Client Connection...")
 
 client = genai.Client(
-    api_key="AIzaSyCWCdRZ0S6tFdXBSY6oTdzZeL9Bu8DAl_E"
+    api_key="YOUR_GEMINI_API_KEY"
 )
 
 print("Gemini AI Client Connected Successfully")
